@@ -1,0 +1,19 @@
+{
+  "name": "api_gavberso",
+  "version": "1.0.0",
+  "description": "Requests manager for Gabverse project.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy, Brandon, Alex, Emma & Gab",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1"
+  }
+}
