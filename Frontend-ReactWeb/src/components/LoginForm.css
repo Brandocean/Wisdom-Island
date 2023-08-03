@@ -1,0 +1,18 @@
+.body {
+    display: grid;
+    background: rgb(255, 255, 255);
+    min-height: 90vh;
+}
+
+#sign-in-form{
+    max-width: 300px;
+}
+
+#main-container{
+    place-items: center center;
+}
+
+.login-logo{
+    width: 200px;
+    height: 200px;
+}
